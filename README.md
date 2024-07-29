@@ -1,7 +1,7 @@
 # DesignTurb: Construction of Complex Vortices
 
 ## Description
-DesignTurb offers a versatile method for constructing the vorticity of vortex tubes with customizable centerline topology, differential twist, and variable thickness. This tool is ideal for designing classical turbulence fields, conceptualized with quantum vortex tangles as the core framework and complemented with customizable vortices as modular elements. This approach allows for free and precise adjustment on the distribution and shape of elemental vortices. The code is written in FORTRAN and supports MPI parallel computing. If you are interested in using the code for your own research, please contact yyg@pku.edu.cn for more details.
+DesignTurb offers a versatile method for constructing the vorticity of vortex tubes with customizable centerline topology, differential twist, and variable thickness. This tool is ideal for designing classical turbulence fields, conceptualized with quantum vortex tangles as the core framework and complemented with customizable vortices as modular elements. This approach allows for free and precise adjustment on the distribution and shape of elemental vortices. The code is written in FORTRAN and supports MPI parallel computing. If you are interested in using the code for your own research, please contact weiyu_shen@pku.edu.cn and yyg@pku.edu.cn for more details.
 
 ## How It Works
 - **Profile Shape**: Modify the profile shape of vortices via the `tpFunc` subroutine.
